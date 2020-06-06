@@ -8,5 +8,9 @@ public class Test {
 		System.out.println("testing");
 	}
 	
+	@org.testng.annotations.Test
+	public void Printing() {
+		System.out.println("printing..");
+	}
 	
 }
