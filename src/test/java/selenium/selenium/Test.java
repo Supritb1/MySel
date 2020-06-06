@@ -13,4 +13,9 @@ public class Test {
 		System.out.println("printing..");
 	}
 	
+	@org.testng.annotations.Test
+	public void editing() {
+		System.out.println("editing");
+	}
+	
 }
