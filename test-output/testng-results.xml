@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17987" started-at="2020-06-06T16:43:40 IST" finished-at="2020-06-06T16:43:58 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17987" started-at="2020-06-06T16:43:40 IST" finished-at="2020-06-06T16:43:58 IST">
+      <class name="selenium.selenium.TestCRM">
+        <test-method status="PASS" signature="befoerClass()[pri:0, instance:selenium.selenium.TestCRM@7494e528]" name="befoerClass" is-config="true" duration-ms="11" started-at="2020-06-06T16:43:40 IST" finished-at="2020-06-06T16:43:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befoerClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:selenium.selenium.TestCRM@7494e528]" name="beforeMethod" is-config="true" duration-ms="12624" started-at="2020-06-06T16:43:40 IST" finished-at="2020-06-06T16:43:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="login()[pri:0, instance:selenium.selenium.TestCRM@7494e528]" name="login" duration-ms="5300" started-at="2020-06-06T16:43:53 IST" finished-at="2020-06-06T16:43:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:selenium.selenium.TestCRM@7494e528]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-06-06T16:43:58 IST" finished-at="2020-06-06T16:43:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- selenium.selenium.TestCRM -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
